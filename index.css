@@ -125,7 +125,7 @@ header.active{
 @media (max-width:450px)
 {
     #menu-bars{
-        position: fixed;
+        position: absolute;
         top: 1;
         right: 1;
     }
