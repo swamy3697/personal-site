@@ -52,7 +52,7 @@ header .logo
 }
 header .logo span{
     text-transform: uppercase;
-    color: orange;
+    color: #169759;
 
 }
 header .navbar a{
@@ -63,7 +63,7 @@ header .navbar a{
 }
 header .navbar a:hover{
     letter-spacing:5px;
-    color: orange;
+    color: #169759;
     font-size:3rem;
     animation: opacityanimation 1s forwards; 
 }
@@ -77,7 +77,7 @@ header .follow a
     top: 1rem;
     right: 1rem;
     z-index: 1000;
-    background: orange;
+    background: #169759;
     color: #fff;
     border-radius: .5rem;
     padding:1rem ;
@@ -143,7 +143,7 @@ header{
     display: inline-block;
     margin-top: 1rem;
     padding: .8rem 3rem;
-    background-color: orange;
+    background-color: #169759;
     color: #fff;
     cursor: pointer;
     font-size: 2rem;
@@ -158,7 +158,7 @@ header{
     left: 0;
     height: 1rem;
     width: 1rem;
-    background: orange;
+    background: #169759;
     pointer-events: none;
     transform: translate(-50%,-50%);
     border: 50%;
@@ -170,7 +170,7 @@ header{
     left: 0;
     height: 4rem;
     width: 4rem;
-    border: .1rem orange;
+    border: .1rem #169759;
 
     pointer-events: none;
     transform: translate(-50%,-50%);
@@ -196,14 +196,14 @@ header{
 }
 .home #image img{
  width: 100%;
- border:1rem solid orange;
+ border:1rem solid #169759;
     border-radius: 25rem;
 
 
 }
 #hi{
     font-size: 2rem;
-    color: orange;
+    color: #169759;
 }
 .home #content h3{
     font-size: 4rem;
@@ -211,7 +211,7 @@ header{
 
 }
 .home #content h3 span{
-    color:orange;
+    color:#169759;
 
 }
 .home #content #info{
@@ -238,14 +238,14 @@ section{
      text-transform: uppercase;
 }
 .heading span{
-    color: orange;
+    color: #169759;
     text-transform: uppercase;
 }
 .btn{
      display: inline-block;
     margin-top: 1rem;
     padding: .8rem 3rem;
-    background-color: orange;
+    background-color: #169759;
     color: #fff;
     cursor: pointer;
     font-size: 2rem;
@@ -274,7 +274,7 @@ section{
     height: 100%;
     width: 100%;
     object-fit: cover;
-    border:1rem solid orange;
+    border:1rem solid #169759;
     border-radius: 25rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
 }
@@ -296,7 +296,7 @@ section{
     padding:0.5rem 0;
 }
 .about .row-1 .content .box-container .box span{
-    color: orange;
+    color: #169759;
 }
 .about .row-2{
     display: flex;
@@ -339,7 +339,7 @@ section{
 .about .row-2 .skills .progress .bar span{
 display: block;
 height: 100%;
-background-color: orange;
+background-color: #169759;
 
 }
 .about .row-2 .skills .progress:nth-child(1) .bar span{
@@ -373,6 +373,6 @@ background-color: orange;
 
 }
 .projects .box-container h1 span{
-    color: orange;
+    color: #169759;
 
 }
